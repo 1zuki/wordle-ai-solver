@@ -25,7 +25,7 @@ Built as a **learning project** focused on algorithms, constraints, and heuristi
 
 Chooses words that maximize **expected information gain**, quickly shrinking the search space.
 
-    `H(X) = -∑ p_i log(p_i)`
+    H(X) = -∑ p_i log(p_i)
 
 ### 2. Probe Words (Ambiguous States)
 
