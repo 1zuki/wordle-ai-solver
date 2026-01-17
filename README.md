@@ -6,7 +6,7 @@ Built as a **learning project** focused on algorithms, constraints, and heuristi
 
 ---
 
-## ✨ Features
+## Features
 
 - Plays Wordle automatically via screen interaction
 - Reads tile feedback using pixel color detection
