@@ -54,6 +54,7 @@ After 1500+ games (varies by word list):
 
 - Most games solved in **3–5 guesses**
 - Significantly higher accurate compared to pure entropy solvers (85% vs ~96%)
+- Up to 99.98% using the answer list from nytimes only, with most game solved around 3.5 guesses.
 
 Example:
 
